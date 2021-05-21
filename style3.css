@@ -1,0 +1,57 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: url("https://images.wagwalkingweb.com/media/daily_wag/name_guides/%7Bslug%7D/hero/1543366264.59/nebraska-dog-names.jpg");
+    background-size: cover;
+    background-position: center;
+    width:100vw;
+    height: 100vh;
+}
+.navba{
+	display:inline-block;
+	width:100%
+	background: black;
+	text-align: center;
+	background: rgba(0, 0, 0, 0.5);
+}
+.navba a {
+	position: relative;
+	float: right;
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+}
+.navba a:hover {
+  background: white;
+  color:black;
+  border-radius: 10px;
+}
+.class-f {
+	position: relative;
+	top:30vh;
+	text-align: center;
+	font-size: 
+}
+.class-f h1 {
+font-size: 27px;
+color: black;
+}
+.class-g {
+	position: relative;
+	top: 35vh;
+	text-align: center;
+}
+.class-g h2 {
+
+	font-size: 20px;
+	color:black;
+}
+.class-g h3{
+	font-size:15px;
+	color:black;
+}
+

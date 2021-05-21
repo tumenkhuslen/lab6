@@ -1,0 +1,57 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: url("https://victor-mochere.com/wp-content/uploads/2020/03/How-to-take-good-care-of-your-pet-dog-750x375.jpg");
+    background-size: cover;
+    background-position: center;
+    width:100vw;
+    height: 100vh;
+}
+.navb {
+	display:inline-block;
+	width:100%
+	background: black;
+	text-align: center;
+	background: rgba(0, 0, 0, 0.5);
+}
+.navb a {
+	position: relative;
+	float: right;
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+}
+.navb a:hover {
+  background: white;
+  color:black;
+  border-radius: 10px;
+}
+.class-h {
+	position: relative;
+	top:10vh;
+	text-align:right;
+	font-size: 
+}
+.class-h h1 {
+font-size: 20px;
+color: black;
+}
+.class-i {
+	position: relative;
+	top: 20vh;
+	text-align: left;
+}
+.class-i h2 {
+
+	font-size: 20px;
+	color:black;
+}
+.class-i h3{
+	font-size:15px;
+	color:black;
+
+}

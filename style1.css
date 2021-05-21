@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: url("https://www.europuppy.com/wp-content/uploads/2018/03/UA3808aki171216_M2_2.jpg");
+    background-size: cover;
+    background-position: center;
+    width:100vw;
+    height: 100vh;
+}
+.nav {
+	display:inline-block;
+	width:100%
+	background: black;
+	text-align: center;
+	background: rgba(0, 0, 0, 0.5);
+}
+.nav a {
+	position: relative;
+	float: right;
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+}
+.nav a:hover {
+  background: white;
+  color:black;
+  border-radius: 10px;
+}
+.class-c {
+	position: relative;
+	top:5vh;
+	text-align: right;
+	font-size: 
+}
+.class-c h1 {
+font-size: 25px;
+color: black;
+}
+.class-d {
+	position: relative;
+	top: 10vh;
+	text-align: left;
+}
+.class-d h2 {
+
+	font-size: 20px;
+	top:30vh;
+	color:black;
+}
+.class-e {
+	position: relative;
+	top:20vh;
+	text-align: right;
+}
+.class-e h3{
+	font-size:15px;
+	color:black;
+}
+
+
+}

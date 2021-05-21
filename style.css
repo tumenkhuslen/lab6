@@ -1,0 +1,75 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: url("https://media.caak.mn/post/dog_facts_2.jpg");
+    background-size: cover;
+    background-position: center;
+    width:100vw;
+    height: 100vh;
+}
+.navbar {
+	display:inline-block;
+	width:100%
+	background: black;
+	text-align: center;
+	background: rgba(0, 0, 0, 0.5);
+}
+.navbar a {
+	position: relative;
+	float: right;
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+}
+.navbar a:hover {
+  background: white;
+  color:black;
+  border-radius: 10px;
+}
+.class-a {
+	position: relative;
+	top:30vh;
+	text-align: center;
+	font-size: 
+}
+.class-a h1 {
+font-size: 27px;
+color: black;
+}
+.class-b {
+	position: relative;
+	top: 35vh;
+	text-align: center;
+}
+.class-b h2 {
+
+	font-size: 20px;
+	color:black;
+}
+.class-b h3{
+	font-size:15px;
+	color:black;
+}
+button{
+	position: relative;
+	top: 40vh;
+	left: 50vw;
+	background: transparent;
+	border:none;
+	font-size: 18px;
+	color:grey;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+button:hover { 
+	background: white;
+	color:black;
+}
+
+
+}
